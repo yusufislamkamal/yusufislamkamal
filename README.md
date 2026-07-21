@@ -41,4 +41,4 @@ Computer Engineering Student | .NET Developer | Passionate about Software Develo
 
 ## 📫 Connect with Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/yusuf-islam-kamal-a4561728a
