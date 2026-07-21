@@ -12,6 +12,14 @@
 
 ## 👨‍💻 About Me
 
+Merhaba! Ben Yusuf İslam Kamal, Düzce Üniversitesi Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirmeye, sürekli öğrenmeye tutkuyla bağlıyım.
+
+C#, .NET, ASP.NET Core, SQL ve HTML, CSS, JavaScript gibi modern web teknolojilerini kullanarak gerçek dünya uygulamaları geliştirmekten keyif alıyorum. Arka uç geliştirmenin yanı sıra, siber güvenlik alanındaki bilgilerimi genişletiyor ve teknik becerilerimi güçlendirmek için yeni teknolojiler keşfediyorum.
+
+Öğrenmeye, etkili projeler oluşturmaya ve fikirleri pratik çözümlere dönüştürerek bir yazılım mühendisi olarak gelişmeye her zaman motiveyim.
+
+<br/>
+
 - 🎓 Computer Engineering student at **Düzce University**
 - 💼 Currently working as a Software Developer Intern
 - 🌱 Deepening my skills in **.NET, ASP.NET Core, SQL,** and **Cyber Security**
@@ -57,6 +65,18 @@
 <a href="https://www.linkedin.com/in/yusuf-islam-kamal-a4561728a/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
+<a href="mailto:yusufislamkamal00@icloud.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="50" alt="Personal Website" />
+</a>
+</div>
+
+<div align="center">
+<sub>📧 yusufislamkamal00@icloud.com &nbsp;·&nbsp; 🌍 Personal website coming soon</sub>
 </div>
 
 <br/>
