@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf Islam Kamal</h1>
 
 <h3 align="center">
-Computer Engineering Student | .NET Developer | Cyber Security Enthusiast
+Computer Engineering Student • Backend Developer • .NET Enthusiast • Cyber Security Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+.NET+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+.NET+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -17,14 +17,24 @@ Computer Engineering Student | .NET Developer | Cyber Security Enthusiast
 - 🌱 Currently learning **.NET, ASP.NET Core, SQL and Cyber Security**
 - 🚀 Developing automation and web applications with modern technologies
 - 🎯 Goal: Become a Backend Developer & Cyber Security Engineer
-- ⚡ I enjoy solving real-world problems through software.
+- ⚡ Passionate about solving real-world problems through software.
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Improve my Backend Development skills
+- 🔐 Learn Cyber Security & CTF
+- 🌐 Build modern ASP.NET Core applications
+- 🤝 Contribute to Open Source projects
+- 📚 Keep learning new technologies every day
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,mysql,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,mysql,git,github,vscode,linux,postman" />
 </p>
 
 ---
@@ -32,8 +42,9 @@ Computer Engineering Student | .NET Developer | Cyber Security Enthusiast
 ## 🚀 Current Projects
 
 - 🚗 Yolcu360 Automation
-- 🌐 May Pro Montaj Website
+- 🌐 May Pro Montaj Corporate Website
 - 🔐 Cyber Security Learning Journey
+- 🌍 Personal Portfolio *(Coming Soon)*
 
 ---
 
@@ -41,7 +52,7 @@ Computer Engineering Student | .NET Developer | Cyber Security Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufislamkamal&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yusufislamkamal&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufislamkamal&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -59,12 +70,22 @@ Computer Engineering Student | .NET Developer | Cyber Security Enthusiast
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yusufislamkamal&theme=darkhub&row=1&column=6"/>
+
+</p>
+
+---
+
 ## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/yusuf-islam-kamal-a4561728a">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/yusuf-islam-kamal-a4561728a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 </p>
@@ -73,4 +94,8 @@ Computer Engineering Student | .NET Developer | Cyber Security Enthusiast
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yusufislamkamal&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
 </p>
