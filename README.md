@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yusuf Islam Kamal</h1>
 
-<!--
-**yusufislamkamal/yusufislamkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Engineering Student | .NET Developer | Passionate about Software Development & Cyber Security
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student at Düzce University
+- 💼 Software Developer Intern
+- 🌱 Currently learning **.NET, ASP.NET Core, SQL and Cyber Security**
+- 🚀 Building real-world automation and web development projects
+- 🎯 Goal: Become a skilled Backend & Cyber Security Engineer
+
+---
+
+## 🛠️ Technologies & Tools
+
+- 💻 C#
+- ⚙️ .NET
+- 🌐 ASP.NET Core
+- 🖥️ WinForms
+- 🗄️ MySQL
+- 🌍 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔧 Git
+- 🐙 GitHub
+
+---
+
+## 🚀 Current Projects
+
+- 🚗 Yolcu360 Automation
+- 🌐 May Pro Montaj Website
+- 🔐 Cyber Security Learning Journey
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
