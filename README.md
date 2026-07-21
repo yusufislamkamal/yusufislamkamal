@@ -1,72 +1,70 @@
-<h1 align="center">Hi 👋, I'm Yusuf Islam Kamal</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Engineering Student • Backend Developer • .NET Enthusiast • Cyber Security Learner
-</h3>
+<h1>Hi there, I'm Yusuf Islam Kamal 👋</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+.NET+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
-</p>
+<h3>Computer Engineering Student · Backend Developer · .NET Enthusiast · Cyber Security Learner</h3>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E86C1&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+.NET+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-# 👨‍💻 About Me
+</div>
 
-- 🎓 Computer Engineering Student at **Düzce University**
-- 💼 Software Developer Intern
-- 🌱 Currently learning **.NET, ASP.NET Core, SQL and Cyber Security**
-- 🚀 Interested in Backend Development, Automation and Web Technologies
-- 🎯 My goal is to become a Backend Developer and Cyber Security Engineer.
-- 📚 I enjoy learning new technologies and building real-world projects.
+<br/>
 
----
+## 👨‍💻 About Me
 
-# 🛠️ Technologies & Tools
+- 🎓 Computer Engineering student at **Düzce University**
+- 💼 Currently working as a Software Developer Intern
+- 🌱 Deepening my skills in **.NET, ASP.NET Core, SQL,** and **Cyber Security**
+- 🚀 Passionate about backend development, automation, and web technologies
+- 🎯 Working toward becoming a **Backend Developer & Cyber Security Engineer**
+- 📚 Always exploring new technologies through hands-on, real-world projects
 
-<p align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,mysql,git,github,vscode,linux,postman"/>
+## 🛠️ Technologies & Tools
 
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,mysql,git,github,vscode,linux,postman" alt="Tech stack" />
+</div>
 
----
+<br/>
 
-# 🚀 Current Projects
+## 🚀 Current Projects
 
-- 🚗 Yolcu360 Automation
-- 🌐 May Pro Montaj Corporate Website
-- 🔐 Cyber Security Learning Journey
-- 🌍 Personal Portfolio *(Coming Soon)*
+| Project | Description |
+|---|---|
+| 🚗 **Yolcu360 Automation** | Automation tooling built for the Yolcu360 platform |
+| 🌐 **May Pro Montaj** | Corporate website development |
+| 🔐 **Cyber Security Learning Journey** | Ongoing hands-on cyber security practice and CTF challenges |
+| 🌍 **Personal Portfolio** | *Coming soon* |
 
----
+<br/>
 
-# 🎯 2026 Goals
+## 🎯 2026 Roadmap
 
-- ✅ Improve Backend Development
-- ✅ Learn ASP.NET Core deeply
-- ✅ Solve CTF challenges
-- ✅ Build modern web applications
-- ✅ Contribute to Open Source
-- ✅ Continuously improve my GitHub portfolio
+- [ ] Strengthen backend development skills
+- [ ] Master ASP.NET Core in depth
+- [ ] Solve CTF challenges regularly
+- [ ] Build and ship modern web applications
+- [ ] Contribute to open-source projects
+- [ ] Continuously grow my GitHub portfolio
 
----
+<br/>
 
-# 📫 Connect with Me
+## 📫 Let's Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yusuf-islam-kamal-a4561728a/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<div align="center">
+<a href="https://www.linkedin.com/in/yusuf-islam-kamal-a4561728a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
 </a>
+</div>
 
-</p>
+<br/>
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-*"Code. Learn. Build. Improve."*
-
+<sub>⭐ Thanks for visiting my profile! ⭐</sub>
+<br/>
+<sub><i>"Code. Learn. Build. Improve."</i></sub>
 </div>
